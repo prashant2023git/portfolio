@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Blockchain Developer Course",
+    "Company": "ICP Hubs",
+    "IssueDate": "Sept 2024",
+    "Link": "https://drive.google.com/file/d/1Mkh8olOcYrN5uLz6hbYk7-TlZF3u52Tt/view",
+    "ImgSrc": "./blockchain.png"
+  },
+
+  {
+    "Name": " Engineers’ Ring of Honour",
+    "Company": "Naukri Campus",
+    "IssueDate": "March 2025",
+    "Link": "https://drive.google.com/file/d/1zR06BW1igXGZYKkr3XwzoIEiIaKE03wU/view",
+    "ImgSrc": "./naukri_campus.png"
+  },
+  {
+    "Name": "HackerHouse",
+    "Company": "Block se Bloack",
+    "IssueDate": "May 2023",
+    "Link": "https://drive.google.com/file/d/1YF3_5G91k-LDa-rEPDBmHKKz_tRU99_F/view",
+    "ImgSrc": "./blockseblock.png"
+  },
+
+  {
+    "Name": "Tata Imagination Challenge",
+    "Company": "Tata",
+    "IssueDate": "2024",
+    "Link": "https://drive.google.com/file/d/13Atl_Q-rKtvOhlO8vwYUZ3nUnX2xpg7P/view",
+    "ImgSrc": "./tata.png"
+  },
+  {
+    "Name": "EBSB Event",
+    "Company": "IIIT Sonepat",
+    "IssueDate": "April 2023",
+    "Link": "https://drive.google.com/file/d/1MlVKOa-H_8Z7wPp4ABDYPn74gWQeXBTB/view",
+    "ImgSrc": "./ebsb.png"
+  }
+]
